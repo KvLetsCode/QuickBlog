@@ -2,6 +2,8 @@
 # 📝 AI Blog Generator
 
 An intelligent blog generation app that creates **engaging, structured, and well-formatted blog posts** using AI. This project demonstrates the use of AI APIs to generate creative content with a focus on clarity, style, and impactful storytelling.
+
+---
 Link : [QuickBlog](https://quick-blog-nine-black.vercel.app/)
 ---
 
