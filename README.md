@@ -99,9 +99,3 @@ AI-Blog-Project/
 
 Contributions are welcome! Feel free to open an **issue** or submit a **pull request**.
 
-
----
-
-🔥 With this README, your project will look **real and professional** on GitHub.
-
-Do you want me to also **add a demo section** (with link to deployed version) so it looks like a real startup-style project?
