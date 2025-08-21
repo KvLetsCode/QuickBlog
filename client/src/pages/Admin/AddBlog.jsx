@@ -41,8 +41,13 @@ const AddBlog = () => {
   const onSubmitHandler = async (e) => {
     e.preventDefault()
     try {
+      
       e.preventDefault();
       setIsAdding(true)
+       if (!title || !subTitle || !category || !image) { 
+        toast.error("Please fill all fields")
+        return
+      }
 
       const blog = {
         title, subTitle, description: quillRef.current.root.innerHTML,
